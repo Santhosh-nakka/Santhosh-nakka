@@ -16,7 +16,7 @@
     <a href="mailto:238r1a05h1@gmail.com">
       <img src="https://img.shields.io/badge/COMM_LINK-238r1a05h1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://linkedin.com/in/santhosh-nakka">
+    <a href="https://www.linkedin.com/in/santhosh-nakka6/">
       <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <img src="https://img.shields.io/badge/HQ-HYDERABAD%2C%20INDIA-blueviolet?style=for-the-badge&logo=googlemaps&logoColor=white" alt="HQ" />
