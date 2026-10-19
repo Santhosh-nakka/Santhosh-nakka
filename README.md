@@ -1,135 +1,176 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
+  <!-- Dynamic Waving Capsule Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=SANTHOSH%20NAKKA&fontSize=44&fontAlignY=38&desc=%E2%9A%A1%20Generative%20AI%20Engineer%20%7C%20Full-Stack%20Web%20Architect%20%7C%20Google%20Cloud%20Certified&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
+
+  <!-- Animated Multi-Line Typing Subtitle -->
   <a href="https://github.com/Santhosh-nakka">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Hi+There!+%F0%9F%91%8B+I'm+Santhosh+Nakka;Generative+AI+%26+Web+Engineer;Google+Cloud+Certified+GenAI+Leader;Salesforce+Agentforce+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=1100&color=9333EA&multiline=true&center=true&vCenter=true&width=800&height=85&lines=%F0%9F%A4%96+Architecting+Intelligent+Generative+AI+Web+Systems;%E2%9C%A8+Google+Cloud+Certified+GenAI+Leader+%26+Salesforce+Agentforce+Specialist;%F0%9F%9A%80+Transforming+Natural+Language+into+Production-Ready+Software" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <b>Passionate Engineer specializing in Generative AI integrations, LLM workflows, and modern web architectures.</b>
-  </p>
+  <br/>
 
-  <!-- Social & Profile Badges -->
+  <!-- High-Tech Status & Profile Badges -->
   <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Santhosh-nakka&label=NEURAL+PULSE+VIEWS&style=for-the-badge&color=7F00FF" alt="Profile Views" />
     <a href="mailto:238r1a05h1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-238r1a05h1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/COMM_LINK-238r1a05h1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://linkedin.com/in/santhosh-nakka">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/Santhosh-nakka">
-      <img src="https://img.shields.io/badge/GitHub-Santhosh--nakka-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/HQ-HYDERABAD%2C%20INDIA-blueviolet?style=for-the-badge&logo=googlemaps&logoColor=white" alt="HQ" />
   </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### ⚡ System Diagnostics & Identity
 
 ```yaml
-name: Santhosh Nakka
-education: B.Tech in Computer Science & Engineering (2023 - 2027)
-university: Jawaharlal Nehru Technological University Hyderabad (JNTUH)
-cgpa: 8.58 / 10.0
-focus: Generative AI, LLM System Architecture, Full-Stack Web Engineering
-internship: Generative AI Intern at L4G (Supported by Google for Developers)
-certifications:
-  - Google Cloud Certified - Generative AI Leader
-  - Salesforce Certified - Agentforce Specialist
-  - inikola & Crafting Brain - Certificate of Excellence (Top Performer)
+╭──────────────────────────────────────────────────────────────────────────╮
+│  santhosh@ai-terminal:~$ neofetch --profile                              │
+╰──────────────────────────────────────────────────────────────────────────╯
+  OPERATING SYSTEM  : ArchLinux / Quantum Dev Environment
+  CORE IDENTITY     : Generative AI & Full-Stack Systems Engineer
+  CURRENT FOCUS     : LLM Architecture, Prompt Engineering, Zero-Dep Web
+  ACADEMICS         : B.Tech in Computer Science & Engineering (2023 - 2027)
+  INSTITUTION       : CMR Engineering College (JNTUH) • CGPA: 8.58 / 10.0
+  EXPERIENCE        : Generative AI Intern at L4G (Supported by Google)
+  NEURAL BADGES     : 22 Google-Supported GenAI Skill Badges Earned
+  CERTIFICATIONS    : [✔] Google Cloud GenAI Leader  [✔] Salesforce Agentforce
 ```
-
-- 💡 **What I Do:** Build real-time, production-grade applications that bridge cutting-edge LLMs (Google Gemini API, OpenAI) with dynamic web interfaces.
-- 🎓 **Continuous Learner:** Earned **22 Generative AI skill badges** through Google-supported curricula.
-- 🛠️ **Current Focus:** Prompt Engineering, Retrieval-Augmented Generation (RAG), and zero-dependency web performance.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🧬 Weaponry & Tech Arsenal
 
 <div align="center">
 
-| Domain | Technologies |
-| :--- | :--- |
-| **🧠 Generative AI & ML** | `Google Gemini API` `Large Language Models (LLMs)` `Prompt Engineering` `Machine Learning` `Scikit-Learn` |
-| **💻 Languages** | `Python` `JavaScript (ES6+)` `Java` `HTML5` `CSS3` `SQL` |
-| **🌐 Web & Frameworks** | `Flask` `REST APIs` `Node.js` `Responsive UI Design` |
-| **🗄️ Core CS** | `Data Structures & Algorithms` `OOPs` `DBMS` `Operating Systems` |
-| **⚙️ Tools & DevOps** | `Git` `GitHub` `VS Code` `Render` `Google Cloud Platform` |
+  <!-- Interactive SkillIcons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,java,flask,git,github,gcp,vscode,postgres,mysql&theme=dark" alt="Tech Stack Icons" />
+  </a>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Tech Icons Badges -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+| Sector | Core Weaponry |
+| :--- | :--- |
+| **🧠 Generative AI & LLMs** | `Google Gemini API` `Prompt Engineering` `Context Caching` `RAG Workflows` `LLM Fine-Tuning Patterns` |
+| **💻 Programming Languages** | `Python 3.x` `JavaScript (Modern ES6+)` `Java` `HTML5` `CSS3` `SQL (PostgreSQL / MySQL)` |
+| **🌐 Full-Stack Architecture** | `Flask (REST APIs)` `Zero-Dependency Web Engines` `Dynamic DOM Rendering` `Glassmorphism UI` |
+| **🗃️ Core Computer Science** | `Data Structures & Algorithms` `OOPs Design Patterns` `DBMS` `Operating Systems` |
+| **⚙️ Cloud & Tooling** | `Google Cloud Platform (GCP)` `Render CI/CD` `Git` `GitHub Actions` `VS Code` |
+
 </div>
 
 ---
 
-### 🌟 Featured Projects
+### 🏆 Hall of Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Santhosh-nakka&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🚀 Flagship Engineered Artifacts
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🚀 AI-WebBuilder</h3>
-      <p>A 100% pure HTML5, CSS3, and JavaScript website builder powered by Google Gemini API. Generates responsive website layouts, multi-tier pricing, and dynamic themes in under 3 seconds from natural language prompts.</p>
-      <p align="center">
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>⚡ AI-WebBuilder</h3>
+        <img src="https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20ES6%2B%20%7C%20Gemini%20API-7F00FF?style=flat-square" alt="Stack" />
+      </div>
+      <br/>
+      <ul>
+        <li><b>Zero-Framework Engine:</b> 100% pure HTML, CSS, and Vanilla JS dynamic site copilot.</li>
+        <li><b>Real-time Generative Pipeline:</b> Converts natural language prompts into responsive layouts in &lt; 3 seconds.</li>
+        <li><b>100% State Retention:</b> Iterative conversational memory allows targeted component updates without losing UI context.</li>
+        <li><b>Live Theming & Export:</b> Instant switching between 7 themes and one-click standalone HTML file export.</li>
+      </ul>
+      <div align="center">
         <a href="https://github.com/Santhosh-nakka/AI-webbuilder">
-          <img src="https://img.shields.io/badge/View_Repository-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/LAUNCH_REPOSITORY-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-      </p>
+      </div>
     </td>
-    <td width="50%">
-      <h3 align="center">📊 Loan Approval Prediction System</h3>
-      <p>A full-stack machine learning web application built with Python and Flask. Processes 14 distinct financial and demographic features using a trained Logistic Regression model, paired with a real-time analytics session dashboard.</p>
-      <p align="center">
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>📊 Loan Approval Prediction System</h3>
+        <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Flask%20%7C%20Scikit--Learn-00C853?style=flat-square" alt="Stack" />
+      </div>
+      <br/>
+      <ul>
+        <li><b>Full-Stack ML Pipeline:</b> End-to-end financial risk assessment platform built with Python & Flask.</li>
+        <li><b>Multi-Feature Inference:</b> Processes 14 demographic & financial data points through a trained Logistic Regression model.</li>
+        <li><b>Live Analytics Telemetry:</b> Dynamic real-time dashboard tracking approval ratios across 3 distinct income brackets.</li>
+        <li><b>Production Ready:</b> Containerized and deployable with automated session caching.</li>
+      </ul>
+      <div align="center">
         <a href="https://github.com/Santhosh-nakka">
-          <img src="https://img.shields.io/badge/View_Repository-00C853?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00C853?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-      </p>
+      </div>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 GitHub Analytics & Activity
+### 📊 Neural Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh-nakka&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F00FF&icon_color=7F00FF&text_color=c0caf5&bg_color=0f172a" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-nakka&layout=compact&theme=tokyonight&hide_border=true&title_color=7F00FF&text_color=c0caf5&bg_color=0f172a" alt="Top Languages" width="48%" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-nakka&theme=tokyo-night&hide_border=true&area=true&color=9333EA" width="98%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh-nakka&show_icons=true&theme=tokyonight&hide_border=true&title_color=9333EA&icon_color=9333EA&text_color=c0caf5&bg_color=0b0f19" width="48%" alt="GitHub Stats" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-nakka&layout=compact&theme=tokyonight&hide_border=true&title_color=9333EA&text_color=c0caf5&bg_color=0b0f19" width="48%" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-nakka&theme=tokyonight&hide_border=true&stroke=7F00FF&background=0f172a&ring=7F00FF&fire=7F00FF&currStreakNum=c0caf5" alt="GitHub Streak" width="97%" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-nakka&theme=tokyonight&hide_border=true&stroke=9333EA&background=0b0f19&ring=9333EA&fire=9333EA&currStreakNum=c0caf5" width="97%" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🏆 Certifications & Recognitions
+### 🎖️ Credentials & Verified Certifications
+
+<details open>
+<summary><b>🌟 Click to Expand / Collapse Verified Accreditations</b></summary>
+<br/>
 
 - 🥇 **Certificate of Excellence (Top Performer Award)** — *inikola & Crafting Brain* (1-Week AI Internship & Workshop)
-- ☁️ **Google Cloud Certified — Generative AI Leader**
-- ⚡ **Salesforce Certified — Agentforce Specialist**
-- 🏅 **22 Generative AI Skill Badges** — Google-supported developer curriculum
+- ☁️ **Google Cloud Certified — Generative AI Leader** (Cloud AI Integration & Strategy)
+- ⚡ **Salesforce Certified — Agentforce Specialist** (Autonomous AI Agents & Enterprise Architecture)
+- 🏅 **22 Generative AI Skill Badges** — Google for Developers Official Curriculum
+
+</details>
 
 ---
 
 <div align="center">
-  <p><i>"The best way to predict the future is to build it with AI."</i></p>
-  <p>© 2026 Santhosh Nakka • Let's build something extraordinary together!</p>
+
+  <!-- Dynamic Quote Widget -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+  <br/><br/>
+
+  <!-- Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer" width="100%" alt="Footer Wave" />
+
+  <p><b>Crafted with 💜 and AI by Santhosh Nakka • Let's build the future together.</b></p>
 </div>
